@@ -3,5 +3,3 @@ A monitoring tool written in [Go](https://golang.org/) and [Bittrex API Go Wrapp
 ## Requirements
 * [Golang 1.9.2](https://golang.org/dl/)
 * [MySQL](https://www.mysql.com/)
-## Setup
-TODO
